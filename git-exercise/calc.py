@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 uysguyhagjhakjkadd(){
+=======
+def add(){
+>>>>>>> 2e707c1b5a8bf40687587da83b4c3e1c95fbdeec
 a=3;
 b=4;
 print(a+b)
